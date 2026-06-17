@@ -18,3 +18,7 @@ The basic thesis timeline:
 **April 2026:** Decided to revise the plotting methods in the results section to better demonstrate the performance of the proposed strategy. Some results were unstable, so additional debugging and investigation were conducted to identify the causes.
 
 **May 2026:** Wrote the introduction and discussion sections and added key findings to strengthen the thesis.
+
+
+brief summary of  research interest
+My research interests lie at the intersection of statistics and data science, with a particular focus on incomplete data, effective sample size estimation, survival analysis, and statistical inference. My undergraduate training in mathematics motivated me to apply quantitative methods to real-world data problems. During a group project, I became interested in how missing, truncated, and censored observations reduce the amount of information contained in a dataset, meaning that the nominal sample size may not represent its true statistical value. This observation inspired my current thesis research on developing methods to measure information loss and estimate effective sample size for incomplete data.
