@@ -1,6 +1,6 @@
 # Thesis-TRU
 This is the thesis for Graduation in TRU Master of Data science program.This folder includes JupiterNotebook coding for running the stimulation and the content of the essay.If you have any questions,please contact by Email:zhangjiayi200110@hotmail.com. Enjoy the reading! :)
-The basic thesis timeline:
+
 **Thesis Progress Timeline**
 
 **September 2025:** Started the thesis project and had the first in-person campus meeting with Professor Mateen Shaikh.
@@ -20,5 +20,29 @@ The basic thesis timeline:
 **May 2026:** Wrote the introduction and discussion sections and added key findings to strengthen the thesis.
 
 
-brief summary of  research interest
+**brief summary of  research interest**
 My research interests lie at the intersection of statistics and data science, with a particular focus on incomplete data, effective sample size estimation, survival analysis, and statistical inference. My undergraduate training in mathematics motivated me to apply quantitative methods to real-world data problems. During a group project, I became interested in how missing, truncated, and censored observations reduce the amount of information contained in a dataset, meaning that the nominal sample size may not represent its true statistical value. This observation inspired my current thesis research on developing methods to measure information loss and estimate effective sample size for incomplete data.
+
+**Research Methods and Technical Skills**
+
+
+Statistical Methods 
+Maximum likelihood estimation, expectation-maximization algorithms,
+effective sample size estimation, survival analysis, bootstrap methods,
+Monte Carlo simulation, hypothesis testing, confidence intervals,
+regression analysis, and experimental design. 
+
+Programming 
+Python, R, SQL, MATLAB, C, and LaTeX. 
+
+Python Libraries 
+NumPy, pandas, SciPy, Matplotlib, scikit-learn, statsmodels, and joblib. 
+
+Data and Computing 
+Jupyter Notebook,GitHub Codespaces, Excel, SPSS, MongoDB,
+and Apache Spark. 
+
+Research Skills 
+Literature review, statistical programming, simulation design, data
+visualization, academic writing, model evaluation, and reproducible
+research. 
